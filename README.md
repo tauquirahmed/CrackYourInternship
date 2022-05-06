@@ -10,6 +10,6 @@ College - Techno India University
 
 Date - 05-05-2022 => Problems Solved - 6
 
-Date - 06-05-2022 => Problems Solved - 1
+Date - 06-05-2022 => Problems Solved - 2
 
 
