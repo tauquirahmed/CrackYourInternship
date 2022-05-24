@@ -25,3 +25,7 @@ Date - 14-05-2022 => Problems Solved - 6
 Date - 17-05-2022 => Problems Solved - 1
 
 Date - 21-05-2022 => Problems Solved - 4
+
+Date - 24-05-2022 => Problems Solved - 1
+  1. Maximum Points You can obtain from cards.
+
